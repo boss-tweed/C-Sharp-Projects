@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe.config
