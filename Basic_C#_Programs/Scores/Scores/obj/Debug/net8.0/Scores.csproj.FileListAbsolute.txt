@@ -1,0 +1,15 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\net8.0\Scores.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\net8.0\Scores.deps.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\net8.0\Scores.runtimeconfig.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\net8.0\Scores.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\net8.0\Scores.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.AssemblyInfoInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.AssemblyInfo.cs
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.sourcelink.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\refint\Scores.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\Scores.genruntimeconfig.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\net8.0\ref\Scores.dll

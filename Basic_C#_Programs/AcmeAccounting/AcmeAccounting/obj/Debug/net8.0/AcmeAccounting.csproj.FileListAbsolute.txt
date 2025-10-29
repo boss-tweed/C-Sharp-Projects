@@ -1,0 +1,15 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.deps.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.runtimeconfig.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.AssemblyInfoInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.AssemblyInfo.cs
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.sourcelink.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\refint\AcmeAccounting.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.genruntimeconfig.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\ref\AcmeAccounting.dll
