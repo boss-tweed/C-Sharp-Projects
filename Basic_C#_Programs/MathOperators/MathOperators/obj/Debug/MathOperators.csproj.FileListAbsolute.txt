@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\bin\Debug\MathOperators.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\bin\Debug\MathOperators.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\bin\Debug\MathOperators.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\obj\Debug\MathOperators.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\obj\Debug\MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\obj\Debug\MathOperators.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\obj\Debug\MathOperators.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\MathOperators\MathOperators\obj\Debug\MathOperators.exe.config
