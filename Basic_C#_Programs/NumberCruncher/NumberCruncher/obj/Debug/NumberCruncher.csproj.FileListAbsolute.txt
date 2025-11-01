@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\bin\Debug\NumberCruncher.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\bin\Debug\NumberCruncher.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\bin\Debug\NumberCruncher.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\obj\Debug\NumberCruncher.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\obj\Debug\NumberCruncher.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\obj\Debug\NumberCruncher.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\obj\Debug\NumberCruncher.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\NumberCruncher\NumberCruncher\obj\Debug\NumberCruncher.exe.config
