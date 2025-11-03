@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\obj\Debug\PackageShippingQuote.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\obj\Debug\PackageShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\bin\Debug\PackageShippingQuote.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\bin\Debug\PackageShippingQuote.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\bin\Debug\PackageShippingQuote.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\obj\Debug\PackageShippingQuote.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\obj\Debug\PackageShippingQuote.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\PackageShippingQuote\PackageShippingQuote\obj\Debug\PackageShippingQuote.exe.config
