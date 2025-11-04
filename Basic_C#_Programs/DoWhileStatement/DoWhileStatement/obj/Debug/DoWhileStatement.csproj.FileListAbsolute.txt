@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\bin\Debug\DoWhileStatement.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\bin\Debug\DoWhileStatement.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\bin\Debug\DoWhileStatement.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.exe.config
