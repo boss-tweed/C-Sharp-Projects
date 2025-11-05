@@ -1,0 +1,15 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.deps.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.runtimeconfig.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.AssemblyInfo.cs
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.sourcelink.json
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\refint\StringFunctions.dll
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.genruntimeconfig.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\StringFunctions\StringFunctions\obj\Debug\net8.0\ref\StringFunctions.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\StringFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262E74-CC1A-4EBB-BB44-BF9ACE1CB951}|StringFunctions\\StringFunctions.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\stringfunctions\\stringfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262E74-CC1A-4EBB-BB44-BF9ACE1CB951}|StringFunctions\\StringFunctions.csproj|solutionrelative:stringfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 354,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\StringFunctions\\StringFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "StringFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\StringFunctions\\StringFunctions\\Program.cs",
+              "RelativeToolTip": "StringFunctions\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wCsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:54:50.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
