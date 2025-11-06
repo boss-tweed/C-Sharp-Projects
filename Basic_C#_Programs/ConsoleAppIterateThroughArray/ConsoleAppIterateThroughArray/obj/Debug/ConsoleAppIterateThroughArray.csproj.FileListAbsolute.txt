@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\bin\Debug\ConsoleAppIterateThroughArray.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\bin\Debug\ConsoleAppIterateThroughArray.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\bin\Debug\ConsoleAppIterateThroughArray.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\obj\Debug\ConsoleAppIterateThroughArray.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\obj\Debug\ConsoleAppIterateThroughArray.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\obj\Debug\ConsoleAppIterateThroughArray.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\obj\Debug\ConsoleAppIterateThroughArray.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ConsoleAppIterateThroughArray\ConsoleAppIterateThroughArray\obj\Debug\ConsoleAppIterateThroughArray.exe.config
