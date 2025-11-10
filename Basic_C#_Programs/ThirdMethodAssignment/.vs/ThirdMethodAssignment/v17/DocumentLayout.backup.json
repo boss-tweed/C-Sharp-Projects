@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ThirdMethodAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB6740-8D48-4AE2-8A95-4967FCD79C1D}|ThirdMethodAssignment\\ThirdMethodAssignment.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\thirdmethodassignment\\thirdmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB6740-8D48-4AE2-8A95-4967FCD79C1D}|ThirdMethodAssignment\\ThirdMethodAssignment.csproj|solutionrelative:thirdmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BB6740-8D48-4AE2-8A95-4967FCD79C1D}|ThirdMethodAssignment\\ThirdMethodAssignment.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\thirdmethodassignment\\thirdmethodassignment\\optionalintegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB6740-8D48-4AE2-8A95-4967FCD79C1D}|ThirdMethodAssignment\\ThirdMethodAssignment.csproj|solutionrelative:thirdmethodassignment\\optionalintegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 552,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptionalIntegers.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ThirdMethodAssignment\\ThirdMethodAssignment\\OptionalIntegers.cs",
+              "RelativeDocumentMoniker": "ThirdMethodAssignment\\OptionalIntegers.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ThirdMethodAssignment\\ThirdMethodAssignment\\OptionalIntegers.cs",
+              "RelativeToolTip": "ThirdMethodAssignment\\OptionalIntegers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:48:18.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ThirdMethodAssignment\\ThirdMethodAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdMethodAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ThirdMethodAssignment\\ThirdMethodAssignment\\Program.cs",
+              "RelativeToolTip": "ThirdMethodAssignment\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA0wBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:46:17.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

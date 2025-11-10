@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\bin\Debug\ThirdMethodAssignment.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\bin\Debug\ThirdMethodAssignment.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\bin\Debug\ThirdMethodAssignment.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\obj\Debug\ThirdMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\obj\Debug\ThirdMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\obj\Debug\ThirdMethodAssignment.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\obj\Debug\ThirdMethodAssignment.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ThirdMethodAssignment\ThirdMethodAssignment\obj\Debug\ThirdMethodAssignment.exe.config
