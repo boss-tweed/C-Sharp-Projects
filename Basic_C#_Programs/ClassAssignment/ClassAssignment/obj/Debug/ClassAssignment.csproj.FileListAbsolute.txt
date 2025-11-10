@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe.config
