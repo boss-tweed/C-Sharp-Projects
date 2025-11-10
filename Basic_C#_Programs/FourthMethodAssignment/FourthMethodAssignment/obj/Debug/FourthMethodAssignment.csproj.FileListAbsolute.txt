@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\bin\Debug\FourthMethodAssignment.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\bin\Debug\FourthMethodAssignment.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\bin\Debug\FourthMethodAssignment.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\obj\Debug\FourthMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\obj\Debug\FourthMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\obj\Debug\FourthMethodAssignment.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\obj\Debug\FourthMethodAssignment.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\FourthMethodAssignment\FourthMethodAssignment\obj\Debug\FourthMethodAssignment.exe.config
