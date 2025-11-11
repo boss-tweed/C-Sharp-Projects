@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\OperatorsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372B3644-2B04-444C-AF3B-07741895970C}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\operatorsassignment\\operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B3644-2B04-444C-AF3B-07741895970C}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372B3644-2B04-444C-AF3B-07741895970C}|OperatorsAssignment\\OperatorsAssignment.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\operatorsassignment\\operatorsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B3644-2B04-444C-AF3B-07741895970C}|OperatorsAssignment\\OperatorsAssignment.csproj|solutionrelative:operatorsassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\OperatorsAssignment\\OperatorsAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "OperatorsAssignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\OperatorsAssignment\\OperatorsAssignment\\Employee.cs",
+              "RelativeToolTip": "OperatorsAssignment\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:29:55.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\OperatorsAssignment\\OperatorsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\OperatorsAssignment\\OperatorsAssignment\\Program.cs",
+              "RelativeToolTip": "OperatorsAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:28:52.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
