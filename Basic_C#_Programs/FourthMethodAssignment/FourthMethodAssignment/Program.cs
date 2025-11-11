@@ -13,7 +13,8 @@ namespace FourthMethodAssignment
             //Instantiating the Void class. Calls the method in the class,
             //passing in 2 numbers. Calls the method in the class specifying parameter names,
             Void voidInstn = new Void();
-            voidInstn.VoidMethod(num1: 10, num2: 25);
+            voidInstn.VoidMethod(10, 25);
+            voidInstn.VoidMethod(num1: 15, num2: 5);
 
             Console.WriteLine(voidInstn);
         }
