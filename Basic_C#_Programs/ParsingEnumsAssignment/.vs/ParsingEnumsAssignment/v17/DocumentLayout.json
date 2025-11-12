@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ParsingEnumsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A153E-B6D8-4AB6-96DB-419336028569}|ParsingEnumsAssignment\\ParsingEnumsAssignment.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\parsingenumsassignment\\parsingenumsassignment\\enumsexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A153E-B6D8-4AB6-96DB-419336028569}|ParsingEnumsAssignment\\ParsingEnumsAssignment.csproj|solutionrelative:parsingenumsassignment\\enumsexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A153E-B6D8-4AB6-96DB-419336028569}|ParsingEnumsAssignment\\ParsingEnumsAssignment.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\parsingenumsassignment\\parsingenumsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A153E-B6D8-4AB6-96DB-419336028569}|ParsingEnumsAssignment\\ParsingEnumsAssignment.csproj|solutionrelative:parsingenumsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumsExp.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ParsingEnumsAssignment\\ParsingEnumsAssignment\\EnumsExp.cs",
+              "RelativeDocumentMoniker": "ParsingEnumsAssignment\\EnumsExp.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ParsingEnumsAssignment\\ParsingEnumsAssignment\\EnumsExp.cs",
+              "RelativeToolTip": "ParsingEnumsAssignment\\EnumsExp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:43:01.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ParsingEnumsAssignment\\ParsingEnumsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ParsingEnumsAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\ParsingEnumsAssignment\\ParsingEnumsAssignment\\Program.cs",
+              "RelativeToolTip": "ParsingEnumsAssignment\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:42:07.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
