@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D222F367-E7B7-4C4B-9936-FC8F26244C22}|LambdaSubmission\\LambdaSubmission.csproj|solutionrelative:lambdasubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D222F367-E7B7-4C4B-9936-FC8F26244C22}|LambdaSubmission\\LambdaSubmission.csproj|c:\\users\\wicke\\documents\\github\\tech-academy-projects\\c-sharp-projects\\basic_c#_programs\\lambdasubmission\\lambdasubmission\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D222F367-E7B7-4C4B-9936-FC8F26244C22}|LambdaSubmission\\LambdaSubmission.csproj|C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaSubmission\\lambdasubmission\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D222F367-E7B7-4C4B-9936-FC8F26244C22}|LambdaSubmission\\LambdaSubmission.csproj|solutionrelative:lambdasubmission\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +26,8 @@
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaSubmission\\LambdaSubmission\\Employee.cs",
               "RelativeDocumentMoniker": "LambdaSubmission\\Employee.cs",
-              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaSubmission\\LambdaSubmission\\Employee.cs*",
-              "RelativeToolTip": "LambdaSubmission\\Employee.cs*",
+              "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaSubmission\\LambdaSubmission\\Employee.cs",
+              "RelativeToolTip": "LambdaSubmission\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T16:54:09.887Z",
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "LambdaSubmission\\Program.cs",
               "ToolTip": "C:\\Users\\wicke\\Documents\\GitHub\\Tech-Academy-Projects\\C-Sharp-Projects\\Basic_C#_Programs\\LambdaSubmission\\LambdaSubmission\\Program.cs",
               "RelativeToolTip": "LambdaSubmission\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T16:52:08.03Z",
               "EditorCaption": ""
