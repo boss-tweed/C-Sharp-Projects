@@ -1,0 +1,8 @@
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\bin\Debug\SecondTryCatch.exe.config
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\bin\Debug\SecondTryCatch.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\bin\Debug\SecondTryCatch.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\obj\Debug\SecondTryCatch.csproj.AssemblyReference.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\obj\Debug\SecondTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\obj\Debug\SecondTryCatch.exe
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\obj\Debug\SecondTryCatch.pdb
+C:\Users\wicke\Documents\GitHub\Tech-Academy-Projects\C-Sharp-Projects\Basic_C#_Programs\SecondTryCatch\SecondTryCatch\obj\Debug\SecondTryCatch.exe.config
