@@ -1,0 +1,9 @@
+﻿@page
+@model WebAppChallengeSub.Pages.YourTimeNowModel
+@{
+    ViewData["Title"] = "Your Time Is Now";
+}
+<h2>@ViewData["Title"]</h2>
+ 
+<!--Current date and time displayed-->
+<p>The current date and time is: @Model.CurrentDateTime.ToString("F")</p>
